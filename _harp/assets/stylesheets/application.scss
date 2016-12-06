@@ -6,7 +6,7 @@ body {
 
 .pure-g {
       //border: 5px solid orange;
-      margin-bottom: 25px;
+     
 }
 .pure-menu-link{
     margin-bottom: 1em;
@@ -62,7 +62,7 @@ ul {
       padding: 0;
 }
 .me{
-    background-color:black;
+    background-color:seagreen;
     color: white;
 }
 .about {
@@ -80,15 +80,22 @@ ul {
     color: aliceblue;
     text-decoration: overline underline;
 }
-.portfoliokader{
-    
-}
+
 .work{
     width:30%;
     margin-right:10px;
     margin-bottom:20px;
     border:1px solid #eee;
     
+}
+#form {
+    background-color: cornflowerblue;
+}
+.footer{
+    letter-spacing: 2px;
+    background-color: seagreen;
+    width: 100%;
+    padding:1%;
 }
 @media (max-width: 48em) {
       li a {
@@ -106,3 +113,4 @@ ul {
     font-size: 2em;
     text-decoration: underline;
 }
+

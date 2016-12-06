@@ -5,7 +5,7 @@ body {
 }
 
 .pure-g {
-      border: 5px solid orange;
+      //border: 5px solid orange;
       margin-bottom: 25px;
 }
 .pure-menu-link{
@@ -21,9 +21,10 @@ body {
 }
 .pure-u-1 {
       box-sizing: border-box;
-      border: 5px solid cadetblue;
+      //border: 5px solid cadetblue;
       padding: 25px;
       text-align: center;
+      
 }
 .contactme{
     color:deepskyblue;
@@ -51,10 +52,19 @@ ul {
       list-style-type: none;
       padding: 0;
 }
+.me{
+    background-color:black;
+    color: white;
+}
+.about {
+    text-align: center;
+}
+
+
 #portfolio{
    background-color: lightgrey; 
 }
-.pastwork{
+.title{
     font-family: "Ubuntu" , sans-serif;
     font-size: 2em;
     margin-bottom: 10px;

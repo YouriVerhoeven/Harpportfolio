@@ -26,6 +26,15 @@ body {
       text-align: center;
       
 }
+.banner {
+    background-image: url(http://circusppc.com/app/uploads/2015/04/how-we-work-banner-2880x960.jpg);
+    background-size: cover;
+    height: 100%;
+    font-family: "Ubuntu" , sans-serif;
+    font-size: 3em;
+    color: aliceblue;
+    text-decoration: overline underline;
+}
 .contactme{
     color:deepskyblue;
     text-decoration: underline;
@@ -90,4 +99,10 @@ ul {
             display: inline;
             margin-right: 10px;
       }
+}
+.banner {
+    height: 100%;
+    font-family: "Ubuntu" , sans-serif;
+    font-size: 2em;
+    text-decoration: underline;
 }
